@@ -2,7 +2,7 @@
 
 **Urban Pulse** is a real-time city intelligence dashboard that helps you visualize traffic, weather, and public sentiment in one place. I built this to explore how different data streams can come together in an interactive map experience.
 
-![Urban Pulse Dashboard](https://urban-pulse-inky.vercel.app/)
+
 
 ##  What it does
 
