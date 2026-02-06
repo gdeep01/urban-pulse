@@ -139,7 +139,7 @@ export async function explainForecast(
     try {
         const trend = predictedPulse > currentPulse ? 'improve' : predictedPulse < currentPulse ? 'decline' : 'remain stable';
         const diff = Math.abs(predictedPulse - currentPulse);
-        const diff = Math.abs(predictedPulse - currentPulse);
+
         // significant check removed as unused
 
         const prompt = `Explain in one short sentence why urban pulse in ${cityName} is predicted to ${trend} (from ${currentPulse} to ${predictedPulse}) over the next 2 hours.
