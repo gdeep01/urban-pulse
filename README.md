@@ -1,10 +1,10 @@
-# Urban Pulse 🏙️
+# Urban Pulse 
 
 **Urban Pulse** is a real-time city intelligence dashboard that helps you visualize traffic, weather, and public sentiment in one place. I built this to explore how different data streams can come together in an interactive map experience.
 
-![Urban Pulse Dashboard](https://media.istockphoto.com/id/1189064349/vector/modern-city-map-with-navigation-pins-gps.jpg?s=612x612&w=0&k=20&c=P_yP-FfVFqgwCqL-oKCqVfR6Xo063dE5-v1Xg3xX1xQ=)
+![Urban Pulse Dashboard]((https://urban-pulse-inky.vercel.app/))
 
-## 🚀 What it does
+##  What it does
 
 - **Live Traffic**: See real-time congestion and traffic flow on an interactive 3D map.
 - **Weather & Environment**: accurate weather conditions overlayed directly on the city.
@@ -12,7 +12,7 @@
 - **Predictive Engine**: Tries to forecast near-term city conditions using historical data.
 - **City Search**: Easily fly to different locations and get instant analytics.
 
-## 🛠️ Built With
+##  Built With
 
 - **Next.js 14** 
 - **TypeScript**
@@ -21,7 +21,7 @@
 - **Supabase**
 - **TanStack Query**
 
-## 🏃‍♂️ Running Locally
+##  Running Locally
 
 1. **Clone the repo**
    ```bash
@@ -45,6 +45,4 @@
    npm run dev
    ```
 
-## 👨‍💻 Author
 
-Built by **Gagan**.
